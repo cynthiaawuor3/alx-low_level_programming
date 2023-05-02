@@ -1,15 +1,3 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-/**
- * File: holberton.h
- * Auth: Brennan D Baraban
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x06-pointers_arrays_strings directory.
- */
-
-#include <stddef.h>
-
 
 
 int _putchar(char c);
@@ -25,4 +13,3 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
 
-#endif main.h
